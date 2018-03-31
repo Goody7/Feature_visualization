@@ -31,9 +31,9 @@ model.h5: 已经训练好的模型<br>
 输入模型的测试图片：<br>
 ![image](https://github.com/Goody7/Feature_visualization/raw/master/result/test_image.jpg)<br>
 第一层卷积层特征可视化结果：<br>
-![image1](https://github.com/Goody7/Feature_visualization/raw/master/result/Conv2D_1FeatureMap.jpg)<br>
+![image](https://github.com/Goody7/Feature_visualization/raw/master/result/Conv2D_1 Feature Map.jpg)<br>
 第二层卷积层特征可视化结果：<br>
-![image2](https://github.com/Goody7/Feature_visualization/raw/master/result/Conv2D_2Feature Map.jpg)<br>
+![image](https://github.com/Goody7/Feature_visualization/raw/master/result/Conv2D_2 Feature Map.jpg)<br>
 第三层卷积层特征可视化结果：<br>
-![image3](https://github.com/Goody7/Feature_visualization/raw/master/result/Conv2D_3 FeatureMap.jpg)<br>
+![image](https://github.com/Goody7/Feature_visualization/raw/master/result/Conv2D_3 Feature Map.jpg)<br>
 其中，第一层卷积层包含32个3x3大小的卷积核，特征图谱以4x8方阵显示出来；第二层卷积层包含64个3x3大小的卷积核，特征图谱以8x8方阵显示出来；第一层卷积层包含128个3x3大小的卷积核，为避免每个卷积核的特征提取结果太小，不便于观察，特征图谱以11x11方阵显示出来。
